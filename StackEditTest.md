@@ -1,9 +1,5 @@
-# Welcome to StackEdit!
-Testing using StackEdit for Github.
-
-
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+# Jem's Complete React Study Notes
+These are my personal notes for studying, but you may find it useful for review if you're doing the course.
 
 # Files
 
@@ -144,5 +140,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTI4NzI4OV19
+eyJoaXN0b3J5IjpbLTQ1MDY2MTQ2MCwxMjE1Mjg3Mjg5XX0=
 -->
